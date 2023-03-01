@@ -1,4 +1,4 @@
-#Short Frontend Road Map
+# Short Frontend Road Map
 Sure, here's a roadmap for learning frontend development with React:
 
 ### HTML and CSS: 
