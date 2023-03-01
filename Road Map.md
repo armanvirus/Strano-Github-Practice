@@ -22,7 +22,8 @@ Redux is a state management library that can help you manage complex state in yo
 ### React Native: 
 React Native is a framework for building mobile applications using React. It allows you to write code once and deploy it to both iOS and Android devices, making it a powerful tool for mobile development.
 
-### Testing: Testing is an essential part of any development process. You should learn how to write tests for your React applications using tools like Jest and Enzyme.
+### Testing:
+Testing is an essential part of any development process. You should learn how to write tests for your React applications using tools like Jest and Enzyme.
 
 ### Performance Optimization:
 As your applications grow, you'll need to optimize their performance to ensure they load quickly and respond smoothly. You can use tools like React Profiler and Chrome DevTools to identify performance bottlenecks and improve your application's speed.
