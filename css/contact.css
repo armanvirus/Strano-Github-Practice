@@ -1,0 +1,49 @@
+#main-footer {
+    background: rgba(30, 39, 70, 1);
+}
+.contact-form{
+    width: 350px;
+}
+#contact-text{
+    text-align: right;
+    margin-top: 45px;
+}
+.served::after {
+    content: '';
+    margin: 5px 0;
+    width: 50px;
+    height: 3px;
+    display: block;
+    background: #1195FF;
+    border-radius: 2rem;
+   
+    
+}
+.serve::after {
+    content: '';
+    margin: 5px 0;
+    width: 55px;
+    height: 1px;
+    display: block;
+    background: #fff;
+    
+}
+#main-footer a{
+    text-decoration: none;
+    cursor: pointer;
+}
+#image-form a{
+    text-decoration: none;
+    cursor: pointer;
+}
+#main-footer ul{
+    list-style: none;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-start; */
+}
+#footer-line{
+    width: ;
+    background: #fff;
+    height: 1px;
+}
