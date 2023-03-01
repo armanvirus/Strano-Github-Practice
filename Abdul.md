@@ -1,0 +1,6 @@
+Full explaination of Github
+GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+
+GitHub provides a web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+
+GitHub also provides a platform for users to share, collaborate, and contribute to code. It hosts over 40 million users and organizations that use GitHub to contribute to over 100 million repositories of code. Users can download the source code, make changes, and submit their changes to be reviewed by other members of the community. Once changes are approved, they become part of the official codebase, allowing anyone to benefit from the improvements. By using GitHub, developers can efficiently collaborate on projects and track changes to the code.
