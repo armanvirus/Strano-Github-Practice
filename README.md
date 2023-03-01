@@ -10,4 +10,4 @@ Our mission to creating safe, secured, better and faster technology solutions to
 ## STRANO'S VISION
 To become a leader in providing best ICT innovative products and services in various industries
 
-[fgl]()
+[www.hub.strano.io]()
