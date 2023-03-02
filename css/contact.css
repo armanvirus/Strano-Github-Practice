@@ -15,9 +15,7 @@
     height: 3px;
     display: block;
     background: #1195FF;
-    border-radius: 2rem;
-   
-    
+    border-radius: 2rem;    
 }
 .serve::after {
     content: '';

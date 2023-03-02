@@ -1,0 +1,16 @@
+#img{
+    
+    /* height: 640px;
+    width: 640px;
+    left: 119px;
+    top: 234px;
+    border-radius: 15px;
+    
+     */
+}
+.served::after{
+    content: '';
+    background: green !important;
+    width: 200px;
+    height: 13px;
+}
