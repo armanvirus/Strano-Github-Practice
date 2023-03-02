@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+#main-body {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    background-color: red;
+}
+#main-section{
+    display: flexbox;
+    justify-content: left;
+    float: left;
+    width: 20px;
+    height: 5px;
+    padding: 0px 10px;
+    background: rgb(233, 220, 220);
+    color: rgb(134, 89, 134);
+    
+}
