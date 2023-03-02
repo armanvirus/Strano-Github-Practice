@@ -16,4 +16,4 @@ To become a leader in providing best ICT innovative products and services in var
 
 ### Some ScreenShorts of the current Repo
 
-[/ScreenShorts/homepage-desktop-1.png]()
+![Desktop](./ScreenShorts/homepage-desktop-1.png "Homepage")    ![Android](./ScreenShorts/homepage-mobile-1.png "Homepage")
