@@ -10,10 +10,10 @@ Our mission to creating safe, secured, better and faster technology solutions to
 ## STRANO'S VISION
 To become a leader in providing best ICT innovative products and services in various industries
 
-###To know more about Strano Kindly the link below to get redirected to the strano's official website:
+### To know more about Strano Kindly the link below to get redirected to the strano's official website:
 [www.hub.strano.io]()
 
 
-#Some ScreenShorts of the current Repo
+### Some ScreenShorts of the current Repo
 
 [/ScreenShorts/homepage-desktop-1.png]()
