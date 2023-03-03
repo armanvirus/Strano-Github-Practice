@@ -1,0 +1,38 @@
+#img{
+    
+    /* height: 640px;
+    width: 640px;
+    left: 119px;
+    top: 234px;
+    border-radius: 15px;
+    
+     */
+}
+.serve::after {
+    content: '';
+    margin: 5px 0;
+    width: 55px;
+    height: 1px;
+    display: block;
+    background: #fff;
+}
+#main-footer{
+    background-color:  #1E2746;
+    
+}
+#tam{
+    /* height: 299px; */
+    /* width: 269px; */
+    left: 383px;
+    top: 1572px;
+    border-radius: 20px;
+    
+}
+.served::after {
+    content: '';
+    margin: 5px 0;
+    width: 55px;
+    height: 2px;
+    display: block;
+    background: #0833ce;
+}
