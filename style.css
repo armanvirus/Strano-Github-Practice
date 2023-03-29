@@ -215,7 +215,7 @@ h3 {
     justify-content: flex-start; */
 }
 #footer-line{
-    width: ;
+    /* width: ; */
     background: #fff;
     height: 1px;
 }
@@ -226,5 +226,26 @@ h3 {
 #box_2 {
     width: 550px;
     height: 500px;
+}
+
+/* style for services page */
+
+.service-entry{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5rem 0;
+}
+
+.service-entry div{
+    max-width: 400px;
+    text-align: center;
+}
+
+.service-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
