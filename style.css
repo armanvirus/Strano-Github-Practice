@@ -249,3 +249,19 @@ h3 {
     align-items: center;
 }
 
+.services-specialty{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.services-specialty-img img{
+    margin: 0 30px;
+}
+
+@media(max-width:1000px){
+    .services-specialty{
+        flex-direction: column;
+        text-align: center;
+    } 
+}
+
